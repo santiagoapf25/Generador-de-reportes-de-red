@@ -32,6 +32,6 @@ Este proyecto realiza las siguientes acciones:
 
 ## Documentación
 
-Puedes consultar la documentación completa en formato PDF haciendo [clic aquí](documentacion.pdf).
+Puedes consultar la documentación completa en formato PDF haciendo [clic aquí](Documentacion.pdf).
 
 
