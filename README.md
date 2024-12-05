@@ -1,4 +1,4 @@
-GENERADOR DE REPORTES DE RED
+                            GENERADOR DE REPORTES DE RED
 
 El proyecto Generador de reportes de Red con Python se centra en resolver estos desafíos 
 mediante una herramienta automatizada que permite monitorear y analizar el rendimiento de 
