@@ -30,5 +30,8 @@ Este proyecto realiza las siguientes acciones:
 3. Santillán Crisante, Diogo
 4. Velarde Espinal, José
 
-## Documentación 
+## Documentación
+
+Puedes consultar la documentación completa en formato PDF haciendo [clic aquí](documentacion.pdf).
+
 
