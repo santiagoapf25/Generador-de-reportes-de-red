@@ -12,7 +12,7 @@ from flask import Flask, render_template, jsonify
 import openai
 
 # Configurar API key de OpenAI
-openai.api_key = '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'
+openai.api_key = ' '
 
 # Clase Ping: realiza pings y devuelve latencias
 class Ping:
